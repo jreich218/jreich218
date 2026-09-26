@@ -6,13 +6,10 @@ I build state-estimation and autonomy algorithms in C++. My background spans Bay
 
 I’m currently focused on state estimation, localization, sensor fusion, and related autonomy roles.
 
-## Current public project
+## Current project
 
 ### IMU + GPS Error-State Kalman Filter (C++ / Eigen)
 Standalone IMU + GPS sensor-fusion project using an error-state Kalman filter (ESKF), with initialization, replay, and evaluation components for simulated/replayed IMU streams with synthetic GPS measurements.
-
-- Repository: [imu-gps-eskf](https://github.com/jreich218/imu-gps-eskf)
-- Docs: [Project documentation](https://jasonmreich.com/eskf_docs/)
 
 ## Experience highlights
 
@@ -27,5 +24,4 @@ Standalone IMU + GPS sensor-fusion project using an error-state Kalman filter (E
 
 ## Links
 
-- Portfolio: [jasonmreich.com](https://jasonmreich.com)
 - LinkedIn: [linkedin.com/in/jasonmreich](https://www.linkedin.com/in/jasonmreich)
