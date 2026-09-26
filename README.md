@@ -9,7 +9,7 @@ I’m currently focused on state estimation, localization, sensor fusion, and re
 ## Independent research
 
 ### IMU + GPS Error-State Kalman Filter (C++ / Eigen)
-I investigated IMU/GPS state estimation through a C++/Eigen error-state Kalman filter project, directing and reviewing its implementation and supporting experiments.
+I investigated IMU/GPS state estimation through a C++/Eigen error-state Kalman filter project.
 
 ### Navigation reference trajectories and estimator evaluation
 I investigated how navigation reference trajectories are constructed and how their uncertainty is represented and assessed. I studied how reference error changes conclusions about estimator performance and what additional measurements can establish. These investigations supported two draft manuscripts.
