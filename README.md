@@ -1,10 +1,8 @@
 # Jason M. Reich
 
-State Estimation / Autonomy Algorithms Engineer
+Localization, State Estimation, and Sensor Fusion
 
-I build state-estimation and autonomy algorithms in C++. My background spans Bayesian filtering, Kalman filtering, sensor fusion, localization, and numerics.
-
-I’m currently focused on state estimation, localization, sensor fusion, and related autonomy roles.
+With 10 years of experience in scientific computing, I focus on localization, state estimation, and sensor fusion.
 
 ## Independent research
 
@@ -16,12 +14,14 @@ I investigated how navigation reference trajectories are constructed and how the
 
 ## Experience highlights
 
-- **Lockheed Martin** — production Bayesian/state-estimation algorithms in modern C++, validation, testing, and numerics
-- **Topoleg** — stochastic filtering, statistical gating, sensor logic, and patented systems work
+- **Lockheed Martin** - implemented and tested production Bayesian-filtering and numerical software in C++/Linux; built a Kalman-filter reference model in MATLAB
+- **Topoleg** - founded the company and developed sensor-based presence-detection algorithms and a C++ model of perspective projection
 
 ## Background
 
-- PhD, Chemical Physics
+- PhD in Chemical Physics, with scientific computing research involving density functional theory, molecular dynamics, and nudged elastic band algorithms.
+- BS in Chemistry with a Physical Chemistry Specialization focused on statistical mechanics, quantum mechanics, and thermodynamics.
+- Computational applied-mathematics research in UCLA's mathematics department using simulated annealing to study low-energy configurations of strained alloys.
 - 2 U.S. patents
 - 4 peer-reviewed publications
 
